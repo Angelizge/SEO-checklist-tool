@@ -8,7 +8,6 @@ In this repository you will find the **SEO Checklist Tool**
 
 This was one of the wrokshops I worked on during the Marketing Analytics Course Bootcamp at WBS Coding School.
 
-
 This tool was created to provide a guide of the main important aspects of the Search engine optimization.
 The SEO check list is divided into On-page SEO, Technical SEO, SEO Basics, Keyword Research and Off-page SEO.
 
