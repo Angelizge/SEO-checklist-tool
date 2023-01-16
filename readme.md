@@ -4,7 +4,7 @@ Hi! Nice to see you here! On my GitHub profile!
 
 In this repository you will find the **SEO Checklist Tool**
 
-Why did I create this tool?
+## Why did I create this tool?
 
 This was one of the wrokshops I worked on during the Marketing Analytics Course Bootcamp at WBS Coding School.
 
